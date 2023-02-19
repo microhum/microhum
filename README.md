@@ -3,6 +3,6 @@
 
 > Yupparaj SMTE 06s.
 
-> Paying attention on Deep Learning, App develop and Game Develop !
+> Paying attention on Coding !
 
 > I do many things !
