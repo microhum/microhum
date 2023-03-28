@@ -8,11 +8,11 @@
 It's me microhum ! You can also call me "Piang" 🤘
 </p>
                                                                  
-- Yupparaj SMTE 06s.
+-        Yupparaj SMTE 06s.
 
-- Paying attention on Coding !
+-        Paying attention on Coding !
 
-- I do many things !
+-        I do many things !
 <br>
 <br>
   
