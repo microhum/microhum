@@ -4,11 +4,11 @@
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 <br>
-It's me microhum ! You can also call me "Piang"
+It's me microhum ! You can also call me "Piang" 👋
 <br>
 > Yupparaj SMTE 06s.
 <br>
->Paying attention on Coding !
+> Paying attention on Coding !
 <br>
 > I do many things !
 
