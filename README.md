@@ -1,4 +1,4 @@
-## Hey there.
+<h1> Hey there. </h1>
 
 <div style="width: 100%;">
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
