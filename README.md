@@ -24,12 +24,12 @@ It's me microhum ! You can also call me "Piang" 🤘
   
 <p align="center">
     I KEEP FIGHTING !
-    I KEEP THINKING !
+     KEEP THINKING 
     
 </p>
 <p align="center">
     I KEEP WORKING !
-    I KEEP PRODUCTIVE !
+     KEEP PRODUCTIVE 
 </p>
   
   
