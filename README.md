@@ -20,8 +20,7 @@ It's me microhum ! You can also call me "Piang" 🤘
 
 -        Free to talk with me about art music programming or even ridiculous things. I like those !
 <br>
- <img align="center" src="[https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://user-images.githubusercontent.com/116241698/228311710-4ae0dbc4-ed13-426b-ab8e-d07cd17213a0.gif)
-"/>
+
 ![MarioRun](https://user-images.githubusercontent.com/116241698/228311710-4ae0dbc4-ed13-426b-ab8e-d07cd17213a0.gif)
 
   
