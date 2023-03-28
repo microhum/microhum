@@ -23,7 +23,11 @@ It's me microhum ! You can also call me "Piang" 🤘
 
   
 <p align="center">
-     "JUST BE
+     "JUST
+    
+</p>
+<p align="center">
+     BE
     
 </p>
 <p align="center">
