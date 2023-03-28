@@ -23,17 +23,10 @@ It's me microhum ! You can also call me "Piang" 🤘
 
   
 <p align="center">
-     "JUST
-    
-</p>
-<p align="center">
-     BE
-    
-</p>
-<p align="center">
-     PRODUCTIVE"
+     " JUST BE PRODUCTIVE " 
 </p>
 <br>
+
   
   
 
