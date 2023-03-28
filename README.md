@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Hey there : D
+Hey there (: D)
 </h1>
 <br>
 
