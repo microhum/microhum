@@ -25,6 +25,9 @@ It's me microhum ! You can also call me "Piang" 🤘
 <h1 align="center">
     KEEP FIGHTING !
     KEEP THINKING !
+    
+</h1>
+<h1 align="center">
     KEEP WORKING !
     KEEP PRODUCTIVE !
 </h1>
