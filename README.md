@@ -14,6 +14,8 @@ It's me microhum ! You can also call me "Piang" 👋
 
 ```diff
 - KEEP FIGHTING !
+- KEEP THINKING !
+- KEEP WORKING !
 ```
 
 
