@@ -6,11 +6,11 @@
 <br>
 It's me microhum ! You can also call me "Piang" 👋
 
-- [x] Yupparaj SMTE 06s.
+- Yupparaj SMTE 06s.
 
-- [x] Paying attention on Coding !
+- Paying attention on Coding !
 
-- [x] I do many things !
+- I do many things !
 
 # [FIGHTING !](#)
 
