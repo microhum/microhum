@@ -2,6 +2,9 @@
 <h1 align="center">
 Hey there :  D
 </h1>
+<h2 align="center">
+😄
+</h2>
 <br>
 
 <div style="width: 100%;">
