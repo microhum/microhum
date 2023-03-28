@@ -23,7 +23,7 @@ It's me microhum ! You can also call me "Piang" 🤘
 
   
 <h2 align="center">
-     " JUST BE PRODUCTIVE " 
+     " JUST BE(COME) PRODUCTIVE " 
 </h2>
 <br>
 
