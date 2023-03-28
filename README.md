@@ -12,5 +12,5 @@ It's me microhum ! You can also call me "Piang" 👋
 <br>
 > I do many things !
 
-# !!! NON-STOP && NON-LIMIT !!! [Blue](#)
+# [FIGHTING !](#)
 
