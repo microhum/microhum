@@ -4,9 +4,9 @@
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 <br>
-<p align="center">
+<h3 align="center">
 It's me microhum ! You can also call me "Piang" 🤘
-</p>
+</h3>
                                                                  
 -        Yupparaj SMTE 06s.
 
