@@ -23,13 +23,13 @@ It's me microhum ! You can also call me "Piang" 🤘
 <br>
   
 <p align="center">
-    I KEEP FIGHTING !
+     KEEP FIGHTING 
      KEEP THINKING 
     
 </p>
 <p align="center">
-    I KEEP WORKING !
-     KEEP PRODUCTIVE 
+     KEEP WORKING 
+     KEEP PRODUCTIVE !
 </p>
   
   
