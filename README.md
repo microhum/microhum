@@ -22,9 +22,9 @@ It's me microhum ! You can also call me "Piang" 🤘
 <br>
 
   
-<font size="11"><p align="center">
+<h2 align="center">
      " JUST BE PRODUCTIVE " 
-</p></font>
+</h2>
 <br>
 
   
