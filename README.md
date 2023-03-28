@@ -23,7 +23,7 @@ It's me microhum ! You can also call me "Piang" 🤘
 
   
 <p align="center">
-     "JUST
+     "   JUST
     
 </p>
 <p align="center">
@@ -31,7 +31,7 @@ It's me microhum ! You can also call me "Piang" 🤘
     
 </p>
 <p align="center">
-     PRODUCTIVE"
+     PRODUCTIVE   "
 </p>
 <br>
   
