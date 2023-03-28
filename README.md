@@ -6,12 +6,11 @@
 <br>
 It's me microhum ! You can also call me "Piang" 👋
 <br>
-  • Yupparaj SMTE 06s.
+> Yupparaj SMTE 06s.
 <br>
-  • Paying attention on Coding !
+> Paying attention on Coding !
 <br>
-  • I do many things !
-<br>
-<br></br>
->NON-STOP NON-LIMIT !!!
+> I do many things !
+
+<h2 style="color:Tomato;">NON-STOP NON-LIMIT !!!</h2>
 
