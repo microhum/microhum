@@ -22,7 +22,12 @@ It's me microhum ! You can also call me "Piang" 🤘
 <br>
 <br>
   
-  
+<h1 align="center">
+    KEEP FIGHTING !
+    KEEP THINKING !
+    KEEP WORKING !
+    KEEP PRODUCTIVE !
+</h1>
   
   
 ```diff
