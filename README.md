@@ -5,9 +5,12 @@
 </div>
 <br>
 It's me microhum ! You can also call me "Piang" 👋
-- [x] Yupparaj SMTE 06s.
-- [x] Paying attention on Coding !
-- [x] I do many things !
+
+- Yupparaj SMTE 06s.
+
+- Paying attention on Coding !
+
+- I do many things !
 
 # [FIGHTING !](#)
 
