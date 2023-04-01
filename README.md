@@ -1,6 +1,6 @@
 
 <h1 align="center">
-✌️ Hey there :  D
+✌️ Hey bro :  D
 </h1>
 <br>
 
