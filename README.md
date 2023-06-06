@@ -18,3 +18,7 @@ It's me microhum ! You can also call me "Piang"
 -        Free to talk with me about art music programming or even ridiculous things. I like those !
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microhum)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
