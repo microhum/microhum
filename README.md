@@ -16,9 +16,7 @@ It's me microhum ! You can also call me "Piang"
 -        I do many things !
 
 -        Free to talk with me about art music programming or even ridiculous things. I like those !
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microhum&show_icons=true&theme=transparent)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api?username=microhum&show_icons=true&theme=transparent)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microhum&show_icons=true&theme=transparent)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microhum&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microhum&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
