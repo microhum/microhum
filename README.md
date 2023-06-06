@@ -19,7 +19,7 @@ It's me microhum ! You can also call me "Piang"
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microhum)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microhuma&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microhum&show_icons=true&theme=transparent)
 
 
 
