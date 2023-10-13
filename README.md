@@ -70,6 +70,3 @@ I love people who passionate and love to share their knowledge !
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"  />
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"  />    
 </p>
-<p>
-    <img src="https://github.com/microhum/microhum/blob/main/anonymous-anonymous-bites-back.gif"  />
-</p>
