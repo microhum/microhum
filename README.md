@@ -13,7 +13,7 @@ I love people who passionate and love to share their knowledge !
 </h3>
 
 <!--- Frog Meme --->
-<p>
+<p align="center">
 <img src="https://github.com/microhum/microhum/blob/main/Meme/anonymous-anonymous-bites-back.gif"/>
 </p>
 
