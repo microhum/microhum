@@ -2,38 +2,45 @@
 
 # What's Up? 👋
 
-🚀 It's me microhum ! You can also call me "Piang" 👓☕
-I'm Interested in Deep Learning and Software Development ! 👨‍💻
+#### 🚀 It's me microhum ! You can also call me "Piang" 👓☕
+#### I'm Interested in Deep Learning and Software Development ! 👨‍💻
 
 <img align="center" src="https://github.com/microhum/microhum/blob/main/Meme/anonymous-anonymous-bites-back.gif"/>
 
 <div align="left">
-  <div style="padding-top: 30px; font-size: 30px;">💻 Technologies & Tools</div>
 
-  - Python | JavaScript | TypeScript
-  - React | Node.js | Flask
-  - Tensorflow | Pytorch
+  ### 💻 Technologies & Tools
+    <div>
+    - Python | JavaScript | TypeScript
+    - React | Node.js | Flask
+    - Tensorflow | Pytorch
+    </div>
 </div>
 
-<div align="left">
-  <div style="padding-top: 20px; font-size: 30px;">🌱 Seeking For Knowledge</div>
-
-  - Machine Learning & Deep Learning
-  - Natural Language Processing
-  - Software Development
-
-</div>
 
 <div align="left">
-  <div style="padding-top: 20px; font-size: 30px;"> 👩‍🦼   Freetime Hobby</div>
-    <div style="padding-top: 10px;">
 
-  - Guitar & Singing 🎸
-  - Drawing ✏️
-  - Transform into some sort of code geek. 🦎🧬🦖
+  ### 🌱 Seeking For Knowledge
+    <div>
+    - Machine Learning & Deep Learning
+    - Natural Language Processing
+    - Software Development
     </div>
 
 </div>
+
+
+<div align="left">
+
+  ### 👩‍🦼   Freetime Hobby
+    <div>
+    - Guitar & Singing 🎸
+    - Drawing ✏️
+    - Transform into some sort of code geek. 🦎🧬🦖
+    </div>
+
+</div>
+
 
 <details align="left">
   <summary style="padding-top: 20px;">🚀 GitHub Stats</summary>
@@ -62,7 +69,7 @@ I'm Interested in Deep Learning and Software Development ! 👨‍💻
   </div>
 </div>
 
-👀 Feel free to explore my repository !
- 💬
-I love people who passionate and love to share their knowledge !
+    👀 Feel free to explore my repository !
+    💬 I love people who passionate and love to share their knowledge !
+#### 
 </div>
