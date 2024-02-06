@@ -49,7 +49,7 @@
 
   [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=microhum&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/microhum)
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=microhum&layout=compact&theme=radical)](https://github.com/microhum)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=microhum&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/microhum)
 
   [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=microhum&theme=radical)](https://github.com/microhum)
 
