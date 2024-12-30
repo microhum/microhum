@@ -76,3 +76,4 @@
 
 [![@microhum Holopin board](https://holopin.io/api/user/board?user=microhum)](https://holopin.io/@microhum)
 ![](https://komarev.com/ghpvc/?username=microhum)
+[![wakatime](https://wakatime.com/badge/user/8aef446c-e74d-4a10-9f3e-7d0f2815bd51.svg)](https://wakatime.com/@8aef446c-e74d-4a10-9f3e-7d0f2815bd51)
