@@ -2,7 +2,7 @@
 
 # What's Up? 👋
 
-//<img align="center" src="https://github.com/microhum/microhum/blob/main/Meme/anonymous-anonymous-bites-back.gif"/>
+<!--<img align="center" src="https://github.com/microhum/microhum/blob/main/Meme/anonymous-anonymous-bites-back.gif"/>-->
 
 <a href="https://gitroll.io/profile/uHL45fKcg1MPTLZj7PfBL9jf0pgc2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHL45fKcg1MPTLZj7PfBL9jf0pgc2?theme=light" alt="GitRoll Profile Badge"/></a>
 
