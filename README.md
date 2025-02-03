@@ -2,59 +2,9 @@
 
 # What's Up? 👋
 
-#### 🚀 It's me microhum ! You can also call me "Piang" 👓☕
-#### I'm Interested in Deep Learning and Software Development ! 👨‍💻
-
 <img align="center" src="https://github.com/microhum/microhum/blob/main/Meme/anonymous-anonymous-bites-back.gif"/>
 
-<div align="left">
-
-  ### 💻 Technologies & Tools
-    <div>
-    - Python | JavaScript | TypeScript
-    - React | Node.js | Flask
-    - Tensorflow | Pytorch
-    </div>
-</div>
-
-
-<div align="left">
-
-  ### 🌱 Seeking For Knowledge
-    <div>
-    - Machine Learning & Deep Learning
-    - Natural Language Processing
-    - Software Development
-    </div>
-
-</div>
-
-
-<div align="left">
-
-  ### 👩‍🦼   Freetime Hobby
-    <div>
-    - Guitar & Singing 🎸
-    - Drawing ✏️
-    - Transform into some sort of code geek. 🦎🧬🦖
-    </div>
-
-</div>
-
-
-<details align="left">
-  <summary style="padding-top: 20px;">🚀 GitHub Stats</summary>
-
-  <div align="center">
-
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=microhum&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/microhum)
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=microhum&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/microhum)
-
-  [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=microhum&theme=radical)](https://github.com/microhum)
-
-  </div>
-</details>
+<a href="https://gitroll.io/profile/uHL45fKcg1MPTLZj7PfBL9jf0pgc2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHL45fKcg1MPTLZj7PfBL9jf0pgc2?theme=light" alt="GitRoll Profile Badge"/></a>
 
 <!-- Connect -->
 <div align="left">
@@ -73,7 +23,5 @@
     👀 Feel free to explore my repository !
     💬 I love people who passionate and love to share their knowledge !
 #### 
-
-[![@microhum Holopin board](https://holopin.io/api/user/board?user=microhum)](https://holopin.io/@microhum)
 ![](https://komarev.com/ghpvc/?username=microhum)
 [![wakatime](https://wakatime.com/badge/user/8aef446c-e74d-4a10-9f3e-7d0f2815bd51.svg)](https://wakatime.com/@8aef446c-e74d-4a10-9f3e-7d0f2815bd51)
