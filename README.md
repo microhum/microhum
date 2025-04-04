@@ -14,9 +14,9 @@
 <div>
     
   [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pianfff)
-  [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-563D7C?style=flat-square&logo=hugging%20face&logoColor=white)](https://huggingface.co/microhum/)
+  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)](https://huggingface.co/microhum/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/microhum/)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gunteed/)
+  [![LinkedIn](https://img.shields.io/badge/Linkedin-004088.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gunteed/)
   [![Bento](https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white)](https://bento.me/microhum)
   </div>
 </div>
