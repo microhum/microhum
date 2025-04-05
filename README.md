@@ -25,5 +25,5 @@
     👀 Feel free to explore my repository !
     💬 I love people who passionate and love to share their knowledge !
     
-![](https://komarev.com/ghpvc/?username=microhum)
+[![Piang profile views](https://u8views.com/api/v1/github/profiles/116241698/views/day-week-month-total-count.svg)](https://u8views.com/github/microhum)
 [![wakatime](https://wakatime.com/badge/user/8aef446c-e74d-4a10-9f3e-7d0f2815bd51.svg)](https://wakatime.com/@8aef446c-e74d-4a10-9f3e-7d0f2815bd51)
